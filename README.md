@@ -20,3 +20,4 @@ Full stack development practices for working in "agile" development teams.
 ## Templates
 
 * [Story](/pages/templates/story.md)
+* [Bug](/pages/templates/bug.md)

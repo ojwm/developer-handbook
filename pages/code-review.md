@@ -17,19 +17,19 @@ For example
 
 ## Definition of done
 
-Use the [definition of done](/handbook/definition-of-done.md) to determine whether the code does what it needs to do.
+Use the [definition of done](/pages/definition-of-done.md) to determine whether the code does what it needs to do.
 
 ## Branch
 
-* Branch name conform to the [branching strategy](/handbook/branching-strategy.md).
+* Branch name conform to the [branching strategy](/pages/branching-strategy.md).
 
 ## Build
 
-* [Build](/handbook/build.md) passes.
+* [Build](/pages/build.md) passes.
 
 ## Tests
 
-The following [tests](/handbook/testing.md) pass, where applicable, which may be part of the aforementioned [build](#build).
+The following [tests](/pages/testing.md) pass, where applicable, which may be part of the aforementioned [build](#build).
 
 * Unit tests.
 * Regression tests.
@@ -41,15 +41,15 @@ The following [tests](/handbook/testing.md) pass, where applicable, which may be
 
 ## Code quality
 
-* Code conforms to agreed [standards](/handbook/code-quality.md).
+* Code conforms to agreed [standards](/pages/code-quality.md).
 * Code passes any code quality checks, which may be part of the aforementioned [build](#build).
 
 ## Security
 
-* Code passes any [security](/handbook/security.md) scans.
+* Code passes any [security](/pages/security.md) scans.
 
 ## Good enough
 
-Code should be good enough to pass the [definition of done](/handbook/definition-of-done.md). Beyond a certain point, improvements to the code do not deliver further value and time would be better spent moving on to the next task.
+Code should be good enough to pass the [definition of done](/pages/definition-of-done.md). Beyond a certain point, improvements to the code do not deliver further value and time would be better spent moving on to the next task.
 
 ![good enough](/images/good-enough.jpg)

@@ -1,6 +1,6 @@
 # Testing
 
-![automation](/images/automation.png)
+[![automation](/images/automation.png)](https://xkcd.com/1319)
 
 Choosing the appropriate test tools is important; if the team enjoys using the tools, there will be more appetite to write good tests.
 

@@ -16,3 +16,7 @@ Full stack development practices for working in "agile" development teams.
 
 * [Definition of ready](/pages/definition-of-ready.md)
 * [Definition of done](/pages/definition-of-done.md)
+
+## Templates
+
+* [Story](/pages/templates/story.md)

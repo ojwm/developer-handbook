@@ -1,6 +1,6 @@
 # Code Review
 
-![code review](/images/code-review.jpeg)
+[![code review](/images/code-review.jpeg)](https://knowyourmeme.com/memes/is-this-a-pigeon)
 
 ## Conducting a code review
 

@@ -11,6 +11,7 @@ Full stack development practices for working in "agile" development teams.
 * [Debugging](/pages/debugging.md)
 * [Security](/pages/security.md)
 * [Testing](/pages/testing.md)
+* [User experience](/pages/user-experience.md)
 
 ## Ways of working
 

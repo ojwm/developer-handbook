@@ -1,6 +1,8 @@
+<!-- markdownlint-disable MD033 -->
 # Code Review
 
-[![code review](/images/code-review.jpeg)](https://knowyourmeme.com/memes/is-this-a-pigeon)
+![code review](/images/code-review.jpeg)
+<sup>Image credit: [Unknown](https://knowyourmeme.com/memes/is-this-a-pigeon).</sup>
 
 ## Conducting a code review
 
@@ -53,3 +55,4 @@ The following [tests](/pages/testing.md) pass, where applicable, which may be pa
 Code should be good enough to pass the [definition of done](/pages/definition-of-done.md). Beyond a certain point, improvements to the code do not deliver further value and time would be better spent moving on to the next task.
 
 ![good enough](/images/good-enough.jpg)
+<sup>Image credit: Unknown.</sup>

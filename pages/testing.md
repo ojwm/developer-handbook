@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Testing
 
-![automation](/images/automation.png)
+![automation](/images/automation.png)\
 <sup>Image credit: [Randall Munroe](https://xkcd.com/1319).</sup>
 
 Choosing the appropriate test tools is important; if the team enjoys using the tools, there will be more appetite to write good tests.

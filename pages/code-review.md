@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Code Review
 
-![code review](/images/code-review.jpeg)
+![code review](/images/code-review.jpeg)\
 <sup>Image credit: [Unknown](https://knowyourmeme.com/memes/is-this-a-pigeon).</sup>
 
 ## Conducting a code review

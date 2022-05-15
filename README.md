@@ -4,7 +4,6 @@ Full stack development practices for working in "agile" development teams.
 
 ## Development
 
-* [Branching strategy](/pages/branching-strategy.md)
 * [Build](/pages/build.md)
 * [Code quality](/pages/code-quality.md)
 * [Code review](/pages/code-review.md)
@@ -12,6 +11,7 @@ Full stack development practices for working in "agile" development teams.
 * [Security](/pages/security.md)
 * [Testing](/pages/testing.md)
 * [User experience](/pages/user-experience.md)
+* [Version control](/pages/version-control.md)
 
 ## Ways of working
 

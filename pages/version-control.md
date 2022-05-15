@@ -1,5 +1,11 @@
 # Version Control
 
+Using Git is hard and messing up is easy.
+
+Refer to [Oh Shit, Git!?!](https://ohshitgit.com) (or the profanity free version: [Dangit, Git!?!](https://dangitgit.com)).
+
+[Tower](https://www.git-tower.com) offer a free [ebook](https://www.git-tower.com/learn/git/ebook) and also have a comprehensive [FAQ](https://www.git-tower.com/learn/git/faq).
+
 ## Branching strategy
 
 Agree on a branching strategy that fits the team's workflow.
@@ -13,15 +19,7 @@ Agree on a branching strategy that fits the team's workflow.
 
 [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) is more suited to DevOps teams using CI/CD.
 
-## Git usage
-
-Using Git is hard and messing up is easy.
-
-Refer to [Oh Shit, Git!?!](https://ohshitgit.com) (or the profanity free version: [Dangit, Git!?!](https://dangitgit.com)).
-
-[Tower](https://www.git-tower.com) offer a free [ebook](https://www.git-tower.com/learn/git/ebook) and also have a comprehensive [FAQ](https://www.git-tower.com/learn/git/faq).
-
-### Renaming branches
+## Renaming branches
 
 1. Checkout the branch and rename it.
 
@@ -45,16 +43,16 @@ If the branch has previously been pushed to the remote, it will need renaming th
    git push -u origin new-name
    ```
 
-### Squashing commits
+## Squashing commits
 
-#### During merge
+### During merge
 
 ```sh
 git checkout master
 git merge --squash feature/my-feature
 ```
 
-#### During development
+### During development
 
 1. Start an interactive rebase on the commit prior to the commit that other commits will be squashed onto.
 
@@ -75,7 +73,7 @@ git merge --squash feature/my-feature
 1. Update the commit message and save to finish the rebase.
 1. Force push to the remote, if necessary.
 
-### Commit author and time
+## Commit author and time
 
 Sometimes it's necessary to reset the commit author an time, e.g. when squashing commits on a feature branch before merging to master.
 

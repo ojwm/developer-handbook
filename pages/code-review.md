@@ -23,7 +23,7 @@ Use the [definition of done](/pages/definition-of-done.md) to determine whether 
 
 ## Branch
 
-* Branch name conform to the [branching strategy](/pages/branching-strategy.md).
+* Branch name conforms to the [branching strategy](/pages/branching-strategy.md).
 
 ## Build
 

@@ -31,6 +31,7 @@ Use the [definition of done](/pages/definition-of-done.md) to determine whether 
 
 ## Tests
 
+Tests should aim to cover all acceptance criteria.\
 The following [tests](/pages/testing.md) pass, where applicable, which may be part of the aforementioned [build](#build).
 
 * Unit tests.

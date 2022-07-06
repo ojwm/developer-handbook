@@ -6,4 +6,10 @@
 
 Code should be free from known vulnerabilities and common attack vectors should be mitigated (e.g. sanitise inputs).
 
+## Static application security testing (SAST)
+
 Security scanners such as [SonarQube](https://www.sonarqube.org/features/security/) can detect [OWASP Top 10](https://owasp.org/www-project-top-ten/) risks and the open source [OWASP dependency-check](https://jeremylong.github.io/DependencyCheck/) project has plugins available for major build tools.
+
+## Penetration testing
+
+Penetration testing can be performed with tools like [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/).

@@ -50,6 +50,10 @@ The following [tests](/pages/testing.md) pass, where applicable, which may be pa
 
 * Code passes any [security](/pages/security.md) scans.
 
+## Documentation
+
+* [Documentation](/pages/documentation.md) has been completed, as necessary.
+
 ## Good enough
 
 Code should be good enough to pass the [definition of done](/pages/definition-of-done.md). Beyond a certain point, improvements to the code do not deliver further value and time would be better spent moving on to the next task.

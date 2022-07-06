@@ -8,6 +8,7 @@ Full stack development practices for working in "agile" development teams.
 * [Code quality](/pages/code-quality.md)
 * [Code review](/pages/code-review.md)
 * [Debugging](/pages/debugging.md)
+* [Documentation](/pages/documentation.md)
 * [Security](/pages/security.md)
 * [Testing](/pages/testing.md)
 * [User experience](/pages/user-experience.md)

@@ -14,6 +14,10 @@ Full stack development practices for working in "agile" development teams.
 * [User experience](/pages/user-experience.md)
 * [Version control](/pages/version-control.md)
 
+### Environment
+
+* [Visual Studio Code](/pages/vs-code.md)
+
 ## Ways of working
 
 * [Definition of ready](/pages/definition-of-ready.md)
